@@ -1,0 +1,570 @@
+[
+	{
+		"parent": 1,
+		"frequency": 83,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "00:00",
+						"frequency": 23
+					},
+					{
+						"parent": "01:00",
+						"frequency": 45
+					},
+					{
+						"parent": "02:00",
+						"frequency": 25
+					},
+					{
+						"parent": "03:00",
+						"frequency": 65
+					},
+					{
+						"parent": "04:00",
+						"frequency": 43
+					},
+					{
+						"parent": "05:00",
+						"frequency": 89
+					},
+					{
+						"parent": "06:00",
+						"frequency": 15
+					},
+					{
+						"parent": "07:00",
+						"frequency": 65
+					}
+				]
+			},
+			{
+				"parent": 2,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 2,
+		"frequency": 63,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 3,
+		"frequency": 18,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 4,
+		"frequency": 45,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 5,
+		"frequency": 89,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 6,
+		"frequency": 95,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 7,
+		"frequency": 22,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 8,
+		"frequency": 37,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 9,
+		"frequency": 9,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 10,
+		"frequency": 62,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 11,
+		"frequency": 19,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	},
+	{
+		"parent": 12,
+		"frequency": 72,
+		"children": [
+			{
+				"parent": 1,
+				"frequency": 60,
+				"children": [
+					{
+						"parent": "0000",
+						"frequency": 23
+					},
+					{
+						"parent": "0100",
+						"frequency": 45
+					},
+					{
+						"parent": "0200",
+						"frequency": 25
+					},
+					{
+						"parent": "0300",
+						"frequency": 65
+					},
+					{
+						"parent": "0400",
+						"frequency": 43
+					},
+					{
+						"parent": "0500",
+						"frequency": 89
+					},
+					{
+						"parent": "0600",
+						"frequency": 15
+					},
+					{
+						"parent": "0700",
+						"frequency": 65
+					}
+				]
+			}
+		]
+	}
+
+
+]

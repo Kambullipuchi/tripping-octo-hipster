@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	box-sizing: border-box;
+}
+
+rect.background {
+	fill: none;
+}
+
+.axis {
+	shape-rendering: crispEdges;
+}
+
+.axis path, .axis line {
+	fill: none;
+	stroke: #000;
+	stroke-width: .5px;
+}
+
+rect{
+  fill: #4aaeea;
+  margin : 3px;
+  padding: 2px;
+}
